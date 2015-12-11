@@ -8,5 +8,6 @@ This is a browser game I created with Unity. It is a puzzle adventure game where
 #### To View Project:
 * Download [unity](http://unity3d.com/unity/).
 * Navigate to **game-code** folder and double click **game-main.sln** folder to run project in Unity.
+
 ##Or:
 * [Play online](http://paigeinteractive.com/work/kotori/index.html)
